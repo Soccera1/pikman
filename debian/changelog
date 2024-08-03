@@ -1,3 +1,10 @@
+pikman (1.25.2.0.1-101pika1) pika; urgency=low
+
+  * Nala is gone
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 10 Dec 2022 13:48:00 +0300
+
+
 pikman (1.25.1.0.1-101pika1) pika; urgency=low
 
   * Update to PikaOS 4
