@@ -12,5 +12,5 @@ var Commands = map[string]string{
 	"search":     "search",
 	"show":       "show",
 	"update":     "update",
-	"upgrade":    "upgrade",
+	"upgrade":    "update && sudo -S apt dist-upgrade",
 }
