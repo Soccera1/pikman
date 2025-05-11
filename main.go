@@ -11,9 +11,6 @@ import (
 )
 
 func main() {
-	if os.Getuid() == 0 {
-		log.Fatalf("Error: Do not run pikman as root")
-	}
 
 	cmd := &command.Command{
 		OsType:        types.Ubuntu,
